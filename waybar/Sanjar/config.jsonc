@@ -38,6 +38,14 @@
       "on-scroll-down": "hyprctl dispatch workspace -1",
       "active-only": false,
       "show-special": false,
+      "persistent-workspaces": {
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": []
+      }
   },
 
   "tray": {
